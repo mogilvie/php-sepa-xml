@@ -3,6 +3,8 @@ php-sepa-xml
 
 Master: [![Build Status](https://api.travis-ci.org/php-sepa-xml/php-sepa-xml.png?branch=master)](http://travis-ci.org/php-sepa-xml/php-sepa-xml)
 
+Currently using this bundle for payments at (https://www.parolla.ie)](https://www.parolla.ie) and (https://tools.parolla.ie)](https://tools.parolla.ie)
+
 SEPA file generator for PHP.
 
 Creates XML files for the Single Euro Payments Area (SEPA) Credit Transfer and Direct Debit Payments Initiation messages. These SEPA XML messages are a subset of the "ISO20022 Universal financial industry message scheme".
